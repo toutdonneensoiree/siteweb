@@ -36,7 +36,7 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/table.JPG': 'center',
+							'images/table.jpg': 'center',
 							'images/fion.jpg': 'center',
 							'images/mazout.jpg': 'center',
 							'images/bg03.jpg': 'center'
